@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.9+commit.e5eed63a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/libraries/PancakeLibrary.sol": "PancakeLibrary"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/interfaces/IPancakePair.sol": {
+			"keccak256": "0x68e04823203a22e7dc18b4f962fa3b48207d4cfcdd8b6e5a9b4fe4d4f5b31a75",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://da1bbaeb5363d43fee49bff59a92b0101b9728c781e3b2ed47fb48b20db76b48",
+				"dweb:/ipfs/QmazBoiGdnh7V53ZET6Q5QVmoZt6Lq23hh8a9XfyAnMYwv"
+			]
+		},
+		"contracts/libraries/PancakeLibrary.sol": {
+			"keccak256": "0x891714fceb8186fe4a897c55ffda66e487d80d124939e1b442392cfb106244ac",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://cfa752825e068d311d1517452bf2c5910f072b31ffca040a6642320ced6d9ccc",
+				"dweb:/ipfs/QmXvc48xNnCnFE1q7yeGuHYuswnXe6qwyt9AKRhCoAFUWV"
+			]
+		}
+	},
+	"version": 1
+}
